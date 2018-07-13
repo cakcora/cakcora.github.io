@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Homepage</title>
+    <link>/project/</link>
+    <description>Recent content in Projects on Homepage</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Blockchain Data Analytics</title>
+      <link>/project/blockchain-project/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 -0500</pubDate>
+      
+      <guid>/project/blockchain-project/</guid>
+      <description>The Blockchain technology garners an ever increasing interest of researchers in various domains that benefit from scalable cooperation among trust-less parties. Some of these fields, such as graph analytics, have started analyzing Blockchain by using existing tools and algorithms, and also have offered new approaches that are tailored for Blockchain data. As Blockchain data analytics proliferates, a need to glean successful approaches and to disseminate them among the diverse data sciences community became more important.</description>
+    </item>
+    
+    <item>
+      <title>Deep Learning</title>
+      <link>/project/deep-learning/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 -0500</pubDate>
+      
+      <guid>/project/deep-learning/</guid>
+      <description>Graph representation learning</description>
+    </item>
+    
+    <item>
+      <title>The Upinion Project</title>
+      <link>/project/upinion/</link>
+      <pubDate>Fri, 27 Aug 2010 00:00:00 -0500</pubDate>
+      
+      <guid>/project/upinion/</guid>
+      <description>With the advance of Microblogging sites, citizen publishing has taken the lead in dissemination of news, politics and ideas.
+A major setback of this revolution is the potential overhead to find the information we seek. Many times microblogging seems to only work for spamming and ads.
+With the Upinion project, we aim to bring the human emotions into play to separate information from the seemingly endless, automatically generated messages.</description>
+    </item>
+    
+  </channel>
+</rss>

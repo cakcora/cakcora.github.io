@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Homepage</title>
+    <link>/post/</link>
+    <description>Recent content in Posts on Homepage</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 -0600</lastBuildDate>
+    
+	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Reviewing &#34;the Truth Machine: the Blockchain and the Future of Everything&#34; by Casey and Vigna.</title>
+      <link>/post/truthmachine/</link>
+      <pubDate>Mon, 09 Jul 2018 00:00:00 -0500</pubDate>
+      
+      <guid>/post/truthmachine/</guid>
+      <description>See other Blockchain Book Reviews here
+See The Truth Machine on Amazon
+Short Review  If you are a looking for a technical book to learn how Blockchain works, this book will not give you all the details. Small but important details, such as P2P network, hashes and nonces, are not detailed. On the other hand, if you are trying to understand what Blockchain brings and where it can be used, this book is for you.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Recent &amp; Upcoming Talks on Homepage</title>
+    <link>/talk/</link>
+    <description>Recent content in Recent &amp; Upcoming Talks on Homepage</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 -0600</lastBuildDate>
+    
+	<atom:link href="/talk/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Blockchain Analytics - A Data Science Perspective</title>
+      <link>/talk/smu2018/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0600</pubDate>
+      
+      <guid>/talk/smu2018/</guid>
+      <description>In recent years, Bitcoin cryptocurrency and the Blockchain technology that forms the basis of Bitcoin have witnessed a flood of attention. Designed to facilitate a secure distributed platform without central regulation, Blockchain is heralded as a paradigm that will be as powerful as Big Data, Cloud Computing, and Machine Learning. Already companies have created Blockchain applications ranging from monitors that track diamonds to networks that distribute food products in the globe.</description>
+    </item>
+    
+    <item>
+      <title>Understanding Cryptocurrency Price Formation from Time Series of Local Blockchain Graph Features</title>
+      <link>/talk/jsm2018/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0600</pubDate>
+      
+      <guid>/talk/jsm2018/</guid>
+      <description>Over the last couple of years, Bitcoin cryptocurrency and the Blockchain technology that forms the basis of Bitcoin have witnessed a flood of attention. With the emergence and rapid adoption of Blockchain and the associated cryptocurrencies understanding the network dynamics behind Blockchain technologies has emerged as an important research direction. Unlike other financial networks such as stock and currency trading, blockchains have the entire time series of interaction graph accessible to the public.</description>
+    </item>
+    
+  </channel>
+</rss>

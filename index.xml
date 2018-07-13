@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Homepage on Homepage</title>
+    <link>/</link>
+    <description>Recent content in Homepage on Homepage</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 -0500</lastBuildDate>
+    <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Reviewing &#34;the Truth Machine: the Blockchain and the Future of Everything&#34; by Casey and Vigna.</title>
+      <link>/post/truthmachine/</link>
+      <pubDate>Mon, 09 Jul 2018 00:00:00 -0500</pubDate>
+      
+      <guid>/post/truthmachine/</guid>
+      <description>
+
+&lt;p&gt;&lt;a href=&#34;https://medium.com/p/66c530c6320d/edit&#34; target=&#34;_blank&#34;&gt;See other Blockchain Book Reviews here&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.amazon.com/Truth-Machine-Blockchain-Future-Everything/dp/1250114578/&#34; target=&#34;_blank&#34;&gt;See The Truth Machine on Amazon&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;short-review&#34;&gt;Short Review&lt;/h2&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;If you are a looking for a technical book to learn how Blockchain works, this book will not give you all the details. Small but important details, such as P2P network, hashes and nonces, are not detailed. On the other hand, if you are trying to understand what Blockchain brings and where it can be used, this book is for you. It touches all main parts of the Blockchain ecology. Especially the authors focus on Ethereum tokens.
+This book focuses on Blockchain as a platform. If you are interested in crypto-currency aspects of Blockchain, see their previous book.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;This is the second book on Blockchain by the authors. Their first book was one of the earliest books, but focused more on crypto-currencies than Blockchain. Until 2016 Blockchain was all about coins, and Bitcoin, in general.
+Since the first book in 2016, Blockchain expanded well beyond crypto-currencies, and these days we want to learn about trust, consensus and security aspects of Blockchain in addition to its financial usage. The book reflects this growing interest. The preface starts with explaining the Bitcoin-to-Blockchain transition.&lt;/p&gt;
+
+&lt;p&gt;The main theme of the book is to position Blockchain as a truth machine, where Blockchain will be a trusted database of facts that have been agreed on by people. The facts will be visible to all, and closed to future modifications. This is the truth that everyone can verify, and use to build on. In 10 chapters, the authors then give examples of what can be built and by using what aspects of Blockchain.&lt;/p&gt;
+
+&lt;p&gt;From the book, the truth example about immigrants caught my attention the most. I am from Turkey and whenever I visit Istanbul I see our Syrian neighbors begging on Turkish streets, having fled their country. They wear sad faces and go about their business in a country where their reputation or education counts for nothing. There are many among them that are well educated but cannot do their jobs. Their truth (e.g., reputation, education) could be stored on the blockchain in terms of diplomas, business dealings and identity documents for everyone to see.&lt;/p&gt;
+
+&lt;p&gt;In terms of trust, Blockchain works two ways; through Blockchain people trust you or you trust others. I found it interesting that the book starts by mentioning people using blockchain to trust the system. Usually we think about trusting the nodes within an otherwise dependable system. The authors give the AirBnb and Uber examples where trusting the system created so much wealth, but most of the wealth went to these companies creating a trust mechanism. Blockchain is mentioned as a technology that could be the Uber with without getting a significant commission.&lt;/p&gt;
+
+&lt;p&gt;I wish the authors worked with a data scientist for this book, and inserted some insights from the many scientific papers that looked into how blockchains are used in real world. There are many interesting bits of information that they could use in this book. Especially in Ethereum tokens, I see a missed opportunity. With so much data, they could prepare a token classification based on usage, characteristic, etc.&lt;/p&gt;
+
+&lt;p&gt;Consider this example: when the authors mention regulations on Bitcoin, our research has created this graph that would fit very nicely into their discussion. We found that because of a regulation rumor, people started selling Bitcoins in an unprecedented scale, which pushed the price of Litecoin from 1.6 to 8 USD in a week. &lt;a href=&#34;https://link.springer.com/chapter/10.1007/978-3-319-93040-4_60&#34; target=&#34;_blank&#34;&gt;See our paper for more on the role of Bitcoin&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Here are some sentences from the book, food for thought:&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Page 125&lt;/strong&gt;: On Internet of things. Schneier said. &amp;ldquo;We have given the Internet hands and feet: the ability to directly affect the pyhsical world. What used to be attacks against data and information have become attacks against flesh, steel and concrete.&amp;rdquo;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Page 130&lt;/strong&gt;: Consider one scenario that some envisage in an IoT world, where a self-driving car that needs to get somewhere in a hurry can make a small payment to another self-driving car to let it pass&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Page 154&lt;/strong&gt;: On tech being adopted by existing power brokers of the old system: A technology with which a community of cyber-anarchists wanted to bypass the giant toll collectors of our international monetary system had been repackaged as something to sell to those same institutions.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Page 192&lt;/strong&gt;: If a borderless cryptocurrency were widely used, like bitcoin, which makes no demands for such personal proofs (who they are, what they do, what they own), it could help the poor break out of the banks&amp;rsquo; and telecoms&amp;rsquo; closed-loop fiefdoms.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Page 222&lt;/strong&gt;: Blockchain disrupting old system: The labor force disruption will not stop with the accountants. The entire investment profession, which is structured around the delayed release of official, audited financial figures, is also very much at risk.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;page 256&lt;/strong&gt;: It is not for nothing that trust is seen as a positive thing and why early cryptographers&amp;rsquo; description of Bitcoin as a &amp;ldquo;trustless&amp;rdquo; system weren&amp;rsquo;t embraced by non-crypto folks. We should look upon the distributed trust solutions blockchains offer as a way to enable communities to strengthen their bonds of trust in other environments, not as replacement for them.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Forecasting Bitcoin Price with Graph Chainlets</title>
+      <link>/publication/blockchainpakdd/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 -0500</pubDate>
+      
+      <guid>/publication/blockchainpakdd/</guid>
+      <description>&lt;p&gt;#More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Privacy Policy</title>
+      <link>/privacy/</link>
+      <pubDate>Thu, 28 Jun 2018 00:00:00 -0500</pubDate>
+      
+      <guid>/privacy/</guid>
+      <description>&lt;p&gt;&amp;hellip;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Blockchain: A Graph Primer</title>
+      <link>/publication/blockchainprimer/</link>
+      <pubDate>Thu, 01 Jun 2017 00:00:00 -0500</pubDate>
+      
+      <guid>/publication/blockchainprimer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Blockchain Analytics - A Data Science Perspective</title>
+      <link>/talk/smu2018/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0600</pubDate>
+      
+      <guid>/talk/smu2018/</guid>
+      <description>&lt;p&gt;In recent years, Bitcoin cryptocurrency and the Blockchain technology that forms the basis of Bitcoin have witnessed a flood of attention. Designed to facilitate a secure distributed platform without central regulation, Blockchain is heralded as a paradigm that will be as powerful as Big Data, Cloud Computing, and Machine Learning. Already companies have created Blockchain applications ranging from monitors that track diamonds to networks that distribute food products in the globe.&lt;/p&gt;
+
+&lt;p&gt;In this talk, I will explain how the Bitcoin blockchain can be represented in terms of its agents and their interactions. In contrast to fiat currencies used worldwide, the Bitcoin distributed ledger is publicly available by design. This facilitates observing all financial interactions on the network, and analyzing how the network evolves in time. I will introduce a novel concept of chainlets, or Bitcoin subgraphs, which allows evaluating statistical properties of the local topological structure of the Bitcoin graph and assess its dynamics over time. I will detail the role of chainlets on Bitcoin price dynamics and show that certain types of chainlets exhibit the highest predictive influence on Bitcoin price and investment risk.&lt;/p&gt;
+
+&lt;p&gt;I will conclude the talk by outlining four research directions that will shape the upcoming research field of Blockchain Data Analytics.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Understanding Cryptocurrency Price Formation from Time Series of Local Blockchain Graph Features</title>
+      <link>/talk/jsm2018/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0600</pubDate>
+      
+      <guid>/talk/jsm2018/</guid>
+      <description>&lt;p&gt;Over the last couple of years, Bitcoin cryptocurrency and the Blockchain technology that forms the basis of Bitcoin have witnessed a flood of attention. With the emergence and rapid adoption of Blockchain and the associated cryptocurrencies understanding the network dynamics behind Blockchain technologies has emerged as an important research direction. Unlike other financial networks such as stock and currency trading, blockchains have the entire time series of interaction graph accessible to the public. This facilitates a thorough analysis of the network in time.&lt;/p&gt;
+
+&lt;p&gt;A natural question to ask is whether the network dynamics of a cryptocurrency impact its price in dollars. We show that on the one hand, time series of standard global graph features such as degree distribution are not enough to capture the network dynamics that impact the underlying cryptocurrency price. In contrast, multiple time series of persistent homologies can explain higher level interactions among nodes in Blockchain graphs and can be used to build more accurate price prediction models.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Blockchain Data Analytics</title>
+      <link>/project/blockchain-project/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 -0500</pubDate>
+      
+      <guid>/project/blockchain-project/</guid>
+      <description>&lt;p&gt;The Blockchain technology garners an ever increasing interest of researchers in various domains that benefit from scalable cooperation among trust-less parties. Some of these fields, such as graph analytics, have started analyzing Blockchain by using existing tools and algorithms, and also have offered new approaches that are tailored for Blockchain data. As Blockchain data analytics proliferates, a need to glean successful approaches and to disseminate them among the diverse data sciences community became more important.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Deep Learning</title>
+      <link>/project/deep-learning/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 -0500</pubDate>
+      
+      <guid>/project/deep-learning/</guid>
+      <description>&lt;p&gt;Graph representation learning&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The Upinion Project</title>
+      <link>/project/upinion/</link>
+      <pubDate>Fri, 27 Aug 2010 00:00:00 -0500</pubDate>
+      
+      <guid>/project/upinion/</guid>
+      <description>&lt;p&gt;With the advance of Microblogging sites, citizen publishing has taken the lead in dissemination of news, politics and ideas.&lt;/p&gt;
+
+&lt;p&gt;A major setback of this revolution is the potential overhead to find the information we seek. Many times microblogging seems to only work for spamming and ads.&lt;/p&gt;
+
+&lt;p&gt;With the Upinion project, we aim to bring the human emotions into play to separate information from the seemingly endless, automatically generated messages.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

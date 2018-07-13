@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Mining on Homepage</title>
+    <link>/tags/data-mining/</link>
+    <description>Recent content in Data Mining on Homepage</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Fri, 27 Aug 2010 00:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="/tags/data-mining/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The Upinion Project</title>
+      <link>/project/upinion/</link>
+      <pubDate>Fri, 27 Aug 2010 00:00:00 -0500</pubDate>
+      
+      <guid>/project/upinion/</guid>
+      <description>With the advance of Microblogging sites, citizen publishing has taken the lead in dissemination of news, politics and ideas.
+A major setback of this revolution is the potential overhead to find the information we seek. Many times microblogging seems to only work for spamming and ads.
+With the Upinion project, we aim to bring the human emotions into play to separate information from the seemingly endless, automatically generated messages.</description>
+    </item>
+    
+  </channel>
+</rss>

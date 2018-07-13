@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications on Homepage</title>
+    <link>/publication/</link>
+    <description>Recent content in Publications on Homepage</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 -0600</lastBuildDate>
+    
+	<atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Forecasting Bitcoin Price with Graph Chainlets</title>
+      <link>/publication/blockchainpakdd/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 -0500</pubDate>
+      
+      <guid>/publication/blockchainpakdd/</guid>
+      <description>#More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
+    </item>
+    
+    <item>
+      <title>Blockchain: A Graph Primer</title>
+      <link>/publication/blockchainprimer/</link>
+      <pubDate>Thu, 01 Jun 2017 00:00:00 -0500</pubDate>
+      
+      <guid>/publication/blockchainprimer/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
